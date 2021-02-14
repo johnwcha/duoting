@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "firechrome-817a7"
+  },
+  "targets": {
+    "firechrome-817a7": {
+      "hosting": {
+        "changting": [
+          "1:664618879744:web:479a00d9d72719919d41e5"
+        ]
+      }
+    }
+  }
+}

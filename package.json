@@ -1,0 +1,23 @@
+{
+  "name": "duoting",
+  "version": "1.0.0",
+  "description": "Just Listen More",
+  "author": "John Chang",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/firebase": "^6.1.1",
+    "firebase": "^7.19.0",
+    "nuxt": "^2.0.0",
+    "opencc-js": "^0.2.1",
+    "vue-youtube": "^1.4.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
